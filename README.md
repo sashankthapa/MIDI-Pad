@@ -2,7 +2,12 @@
 
 A custom 3×5 USB MIDI pad built from scratch using an Arduino Nano.
 
-[v1 Demo](https://x.com/0xkozue/status/2076754242774368724?s=20)
+<p align="center">
+  <img src="images/v1/IMG_E7810.JPG" alt="MIDI Pad Front" width="45%" />
+  <img src="images/v1/IMG_E7812.JPG" alt="MIDI Pad Back" width="45%" />
+</p>
+
+[v1 Demo video](https://x.com/0xkozue/status/2076754242774368724?s=20)
 
 ## Features
 - 3×5 switch matrix
